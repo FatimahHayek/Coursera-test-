@@ -1,2 +1,2 @@
-# Coursera-test-
-Coursera test repository
+# Coursera-test
+Module 3 Coding Assignment
